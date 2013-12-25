@@ -1,4 +1,4 @@
-electric_imp
+electricimp
 ============
 
 electric imp repository of side projects
